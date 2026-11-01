@@ -56,7 +56,10 @@ database/   MySQL scripts (schema, sample data, full setup)
 These passwords are created on your own computer by `set_demo_passwords.py`. Never use them on a real server.
 
 ## Screenshots
-<add screenshots of the dashboard, candidates, and reports here>
+<img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/ffcd6349-1deb-46f7-80b8-b4459a880e2c" />
+<img width="1693" height="866" alt="image" src="https://github.com/user-attachments/assets/7b2f4751-522b-49e8-8f60-4088411b4d46" />
+
+
 
 ## Author
 Saniya bangi 
